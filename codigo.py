@@ -1,4 +1,4 @@
-nombre= "junior"
+nombre= "Luis"
 apellido="Dalto"
 
 saludo = "Hola" + nombre  + "" + apellido + "¿Como estas?" 
